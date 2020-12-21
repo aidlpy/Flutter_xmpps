@@ -1,4 +1,4 @@
-# flutter_xmpp
+# flutter_xmpps: git clone from other git , coz requeird secondary developing in flutter xmpp to support openfire
 基于xmpp搭建openfire，实现IM功能。插件支持iOS、Android端。
 ## 使用说明
 ### 1、初始化
