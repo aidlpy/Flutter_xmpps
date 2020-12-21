@@ -1,8 +1,8 @@
-name: flutter_xmpp
-description: xmpp for openfire
+name: flutter_xmpps
+description: xmpps for openfire
 version: 1.0.0
-author: elex <sfy921011@gmail.com>
-homepage: https://github.com/Elex92/flutter_xmpp.git
+author: albert <aidlpy@gmail.com>
+homepage: https://github.com/aidlpy/Flutter_xmpps.git
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
